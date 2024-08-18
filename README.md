@@ -11,3 +11,5 @@ Currently, two official plugins are available:
 git branch -M main
 git remote add origin https://github.com/allindiacoderlife/3D-Portfolio-ThreeJS.git
 git push -u origin main -->
+
+npm install --legacy-peer-deps three
