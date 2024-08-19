@@ -27,21 +27,21 @@ const readerContent = {
   2: (
     <InfoBox
       text="I am a Full Stack Developer with a passion for building web applications."
-      link="/about"
+      link="/Portfolio/about"
       btnText="Learn More"
     />
   ),
   3: (
     <InfoBox
       text="Led Multiple project to success over the year."
-      link="/projects"
+      link="/Portfolio/projects"
       btnText="View Projects"
     />
   ),
   4:(
     <InfoBox
       text="I am currently looking for new opportunities."
-      link="/contact"
+      link="/Portfolio/contact"
       btnText="Contact Me"
     />
   ),
