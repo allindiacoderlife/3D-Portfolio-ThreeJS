@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <header className="header">
       <NavLink
-        to="/"
+        to="/Portfolio"
         className="h-10 w-10 rounded-lg bg-white
             flex items-center justify-center shadow-md font-bold
         "
