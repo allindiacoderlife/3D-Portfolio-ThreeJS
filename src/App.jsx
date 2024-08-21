@@ -4,14 +4,14 @@ import Navbar from './components/Navbar';
 
 const App = () => {
   return (
-    <main className='bg-slate-300/20'>
+    <main className='bg-slate-300/20 h-[100vh]'>
       <Router>
         <Navbar />
         <Routes>
           <Route path='/Portfolio' element={<Home/>} />
           <Route path='/Portfolio/about' element={<About/>} />
           <Route path='/Portfolio/projects' element={<Projects/>} />
-          <Route path='/Portfolio/contact' element={<Contacts/>} />
+          <Route path='/Portfolio/contant' element={<Contacts/>} />
         </Routes>
       </Router>
     </main>

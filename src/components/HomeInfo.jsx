@@ -41,7 +41,7 @@ const readerContent = {
   4:(
     <InfoBox
       text="I am currently looking for new opportunities."
-      link="/Portfolio/contact"
+      link="/Portfolio/contant"
       btnText="Contact Me"
     />
   ),
